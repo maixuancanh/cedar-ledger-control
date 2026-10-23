@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-23",
+  "deployment": "dpl_Cpg5Fjde6TvSLTnYuKy7fkhNWKT6",
+  "checks": [
+    {
+      "url": "cedar-ledger-control.vercel.app",
+      "httpStatus": 200,
+      "result": {
+        "hostname": "cedar-ledger-control.vercel.app",
+        "recommendedAction": "BLOCK"
+      },
+      "checkedAt": "2026-10-23T01:47:37.903Z"
+    },
+    {
+      "url": "mezora.vercel.app",
+      "httpStatus": 200,
+      "result": {
+        "hostname": "mezora.vercel.app",
+        "recommendedAction": "BLOCK"
+      },
+      "checkedAt": "2026-10-23T01:47:38.227Z"
+    },
+    {
+      "url": "app.uniswap.org",
+      "httpStatus": 200,
+      "result": {
+        "hostname": "app.uniswap.org",
+        "recommendedAction": "VERIFIED"
+      },
+      "checkedAt": "2026-10-23T01:47:38.551Z"
+    }
+  ],
+  "scope": "Independent static browser-only demo; no blockchain SDK, provider requests, backend or contract integration",
+  "limitations": [
+    "Changed domain, branding, runtime and content together; not single-variable attribution",
+    "Public scanner result does not reproduce an installed MetaMask extension connection alert because this site has no wallet connection",
+    "BLOCK reason unavailable"
+  ]
+}

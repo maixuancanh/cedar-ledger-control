@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-23",
+  "url": "https://cedar-ledger-control.vercel.app",
+  "checks": [
+    "demo create verify reserve mark-paid",
+    "balance conservation",
+    "reload persistence",
+    "390px no page overflow",
+    "zero page errors",
+    "zero console errors",
+    "no backend or blockchain requests"
+  ],
+  "origins": [
+    "https://cedar-ledger-control.vercel.app",
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com"
+  ],
+  "requests": [
+    {
+      "url": "https://cedar-ledger-control.vercel.app/",
+      "method": "GET"
+    },
+    {
+      "url": "https://cedar-ledger-control.vercel.app/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "https://cedar-ledger-control.vercel.app/control.css",
+      "method": "GET"
+    },
+    {
+      "url": "https://cedar-ledger-control.vercel.app/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700&family=Manrope:wght@400;500;600;650;700;750;800&display=swap",
+      "method": "GET"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+      "method": "GET"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2",
+      "method": "GET"
+    },
+    {
+      "url": "https://cedar-ledger-control.vercel.app/favicon.svg",
+      "method": "GET"
+    },
+    {
+      "url": "https://cedar-ledger-control.vercel.app/",
+      "method": "GET"
+    },
+    {
+      "url": "https://cedar-ledger-control.vercel.app/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "https://cedar-ledger-control.vercel.app/control.css",
+      "method": "GET"
+    },
+    {
+      "url": "https://cedar-ledger-control.vercel.app/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700&family=Manrope:wght@400;500;600;650;700;750;800&display=swap",
+      "method": "GET"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+      "method": "GET"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2",
+      "method": "GET"
+    },
+    {
+      "url": "https://cedar-ledger-control.vercel.app/favicon.svg",
+      "method": "GET"
+    }
+  ],
+  "errors": [],
+  "violations": [],
+  "csp": "default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'none'; frame-ancestors 'none'; object-src 'none'; base-uri 'self'; form-action 'self'"
+}
