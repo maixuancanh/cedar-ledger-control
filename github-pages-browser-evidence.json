@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-23",
+  "url": "https://maixuancanh.github.io/cedar-ledger-control/",
+  "checks": [
+    "demo create verify reserve mark-paid",
+    "balance conservation",
+    "reload persistence",
+    "390px no page overflow",
+    "zero page errors",
+    "zero console errors",
+    "no backend or blockchain requests"
+  ],
+  "origins": [
+    "https://maixuancanh.github.io",
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com"
+  ],
+  "requests": [
+    {
+      "url": "https://maixuancanh.github.io/cedar-ledger-control/",
+      "method": "GET"
+    },
+    {
+      "url": "https://maixuancanh.github.io/cedar-ledger-control/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "https://maixuancanh.github.io/cedar-ledger-control/control.css",
+      "method": "GET"
+    },
+    {
+      "url": "https://maixuancanh.github.io/cedar-ledger-control/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700&family=Manrope:wght@400;500;600;650;700;750;800&display=swap",
+      "method": "GET"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+      "method": "GET"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2",
+      "method": "GET"
+    },
+    {
+      "url": "https://maixuancanh.github.io/cedar-ledger-control/favicon.svg",
+      "method": "GET"
+    },
+    {
+      "url": "https://maixuancanh.github.io/cedar-ledger-control/",
+      "method": "GET"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700&family=Manrope:wght@400;500;600;650;700;750;800&display=swap",
+      "method": "GET"
+    },
+    {
+      "url": "https://maixuancanh.github.io/cedar-ledger-control/styles.css",
+      "method": "GET"
+    },
+    {
+      "url": "https://maixuancanh.github.io/cedar-ledger-control/control.css",
+      "method": "GET"
+    },
+    {
+      "url": "https://maixuancanh.github.io/cedar-ledger-control/app.js",
+      "method": "GET"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+      "method": "GET"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2",
+      "method": "GET"
+    },
+    {
+      "url": "https://maixuancanh.github.io/cedar-ledger-control/favicon.svg",
+      "method": "GET"
+    }
+  ],
+  "errors": [],
+  "violations": []
+}

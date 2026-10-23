@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-23",
+  "hosting": "GitHub Pages",
+  "url": "https://maixuancanh.github.io/cedar-ledger-control/",
+  "results": [
+    {
+      "url": "https://maixuancanh.github.io/cedar-ledger-control/",
+      "status": 200,
+      "result": {
+        "hostname": "maixuancanh.github.io",
+        "recommendedAction": "BLOCK"
+      },
+      "checkedAt": "2026-10-23T01:50:22.436Z"
+    },
+    {
+      "url": "maixuancanh.github.io",
+      "status": 200,
+      "result": {
+        "hostname": "maixuancanh.github.io",
+        "recommendedAction": "BLOCK"
+      },
+      "checkedAt": "2026-10-23T01:50:22.752Z"
+    },
+    {
+      "url": "cedar-ledger-control.vercel.app",
+      "status": 200,
+      "result": {
+        "hostname": "cedar-ledger-control.vercel.app",
+        "recommendedAction": "BLOCK"
+      },
+      "checkedAt": "2026-10-23T01:50:23.080Z"
+    },
+    {
+      "url": "app.uniswap.org",
+      "status": 200,
+      "result": {
+        "hostname": "app.uniswap.org",
+        "recommendedAction": "VERIFIED"
+      },
+      "checkedAt": "2026-10-23T01:50:23.407Z"
+    }
+  ],
+  "limits": [
+    "Public URL scanner only; no extension wallet connection on this browser-only demo",
+    "GitHub Pages uses a shared account hostname; classification reason not returned"
+  ]
+}
